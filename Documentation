@@ -1,0 +1,5 @@
+Objectives:
+1. Predict food delivery time in minutes from the restaurant to the delivery point against the Age of Delivery Partner
+Ratings of Previous Deliveries, total distance  and weather conditions.
+
+2. Predict customer satisfaction based on delivery time in minutes, delivery person ratings and distance
